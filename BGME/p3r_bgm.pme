@@ -1,0 +1,6 @@
+const p3r_bgm1 = random_song(10000, 10009)
+const p3r_bgm2 = random_song(10010, 10016)
+
+encounter["Normal Battles"]:
+  music = battle_bgm(p3r_bgm1, p3r_bgm2, p3r_bgm1)
+end

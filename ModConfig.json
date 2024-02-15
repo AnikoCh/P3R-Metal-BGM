@@ -1,0 +1,135 @@
+{
+  "ModId": "p3r.megadeth.music.bgm",
+  "ModName": "P3R Megadeth BGM",
+  "ModAuthor": "Aniko",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Add Megadeth And Metallica Battle Music",
+  "ModDll": "",
+  "ModIcon": "81KM0plGIpL._UF1000,1000_QL80_.jpg",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p3r.megadeth.music.bgm.ReleaseMetadata.json",
+  "PluginData": {
+    "GameBananaDependencies": {
+      "IdToConfigMap": {
+        "BGME.BattleThemes": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 488707
+          },
+          "ReleaseMetadataName": "BGME.BattleThemes.ReleaseMetadata.json"
+        },
+        "BGME.Framework.API": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 477399
+          },
+          "ReleaseMetadataName": "BGME.Framework.API.ReleaseMetadata.json"
+        },
+        "BGME.Framework.P3R": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 495456
+          },
+          "ReleaseMetadataName": "BGME.Framework.P3R.ReleaseMetadata.json"
+        },
+        "Ryo.Reloaded": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 495507
+          },
+          "ReleaseMetadataName": "Ryo.Reloaded.ReleaseMetadata.json"
+        },
+        "p3rpc.essentials": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 494020
+          },
+          "ReleaseMetadataName": "p3rpc.essentials.ReleaseMetadata.json"
+        }
+      }
+    },
+    "GitHubDependencies": {
+      "IdToConfigMap": {
+        "Reloaded.Memory.SigScan.ReloadedII": {
+          "Config": {
+            "UserName": "Reloaded-Project",
+            "RepositoryName": "Reloaded.Memory.SigScan",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "Reloaded.Memory.SigScan.ReloadedII.ReleaseMetadata.json"
+        },
+        "reloaded.sharedlib.hooks": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
+            "UseReleaseTag": true,
+            "AssetFileName": "reloaded.sharedlib.hooks.zip"
+          },
+          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
+        },
+        "reloaded.universal.fileemulationframework": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "FileEmulationFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "Reloaded.Universal.FileEmulationFramework.ReleaseMetadata.json"
+        },
+        "UnrealEssentials": {
+          "Config": {
+            "UserName": "AnimatedSwine37",
+            "RepositoryName": "UnrealEssentials",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "UnrealEssentials.ReleaseMetadata.json"
+        },
+        "UTOC.Stream.Emulator": {
+          "Config": {
+            "UserName": "AnimatedSwine37",
+            "RepositoryName": "UnrealEssentials",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "UTOC.Stream.Emulator.ReleaseMetadata.json"
+        },
+        "p3rpc.essentials": {
+          "Config": {
+            "UserName": "AnimatedSwine37",
+            "RepositoryName": "p3rpc.essentials",
+            "UseReleaseTag": true,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "p3rpc.essentials.ReleaseMetadata.json"
+        }
+      }
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "BGME.BattleThemes",
+    "BGME.Framework.API",
+    "BGME.Framework.P3R",
+    "Reloaded.Memory.SigScan.ReloadedII",
+    "reloaded.sharedlib.hooks",
+    "reloaded.universal.fileemulationframework",
+    "Ryo.Reloaded",
+    "UnrealEssentials",
+    "UTOC.Stream.Emulator",
+    "p3rpc.essentials"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "p3r.exe_dup"
+  ],
+  "ProjectUrl": ""
+}

@@ -1,0 +1,6 @@
+cue_name: '10007'
+player_id: 0
+category_ids: [0, 8, 18]
+volume: 0.5
+sample_rate: 44100
+num_channels: 2
