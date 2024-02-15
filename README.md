@@ -1,5 +1,6 @@
 # P3R Metal BGM
 Adding Metallica, Megadeth, P4, P5 Battle Music
+
 Normal & Disadvantage Battle List:
 - Mass Destruction -Reload- 'No Changes'
 - Reach Out to The Truth P4
@@ -10,6 +11,7 @@ Normal & Disadvantage Battle List:
 - Enter Sandman Metallica
 - This Was My Life Megadeth
 - Holy Wars The Punishment Due Megadeth
+
 Advantage Battle List:
 - It's Going Down Now 'No Changes'
 - Time to Make History P4
