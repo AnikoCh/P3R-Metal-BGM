@@ -1,6 +1,13 @@
 # P3R Metal BGM
 Adding Metallica, Megadeth, P4, P5 Battle Music
 
+Mod Dependecy:
+- BGME Framework API
+- BGME Framework P3R
+- P3R Essentials
+- Unreal Essentials
+- Ryo Framework
+
 Normal & Disadvantage Battle List:
 - Mass Destruction -Reload- 'No Changes'
 - Reach Out to The Truth P4
