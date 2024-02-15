@@ -1,7 +1,7 @@
 # P3R Metal BGM
 Adding Metallica, Megadeth, P4, P5 Battle Music
 
-Mod Dependecy:
+Mod Dependency:
 - BGME Framework API
 - BGME Framework P3R
 - P3R Essentials
